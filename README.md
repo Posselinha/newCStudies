@@ -1,0 +1,1 @@
+Pasta de arquivos para meu retreinamento em aprender o C
